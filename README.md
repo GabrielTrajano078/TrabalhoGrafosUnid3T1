@@ -1,5 +1,3 @@
-# TrabalhoGrafosUnid3T1
-
 # Broken Minimum Spanning Tree
 
 **Problema:** [Kattis – Broken Minimum Spanning Tree](https://open.kattis.com/problems/brokenminimumspanningtree)
