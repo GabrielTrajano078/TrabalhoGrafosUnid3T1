@@ -6,11 +6,12 @@
 
 ## Integrantes do grupo
 
-Gabriel Trajano - 2410361
-Davi Lira Cysne - 2410372
-Thiago Holanda
-Lucas Bezerra
-Artur da Ponte
+- Gabriel Trajano - 2410361
+- Davi Lira Cysne - 2410372
+- Thiago Holanda
+- Lucas Bezerra
+- Artur da Ponte
+
 ---
 
 ## Linguagem utilizada
