@@ -109,6 +109,6 @@ A variação consiste em encontrar uma **MST que maximize o número de arestas e
 
 ## Evidência de submissão
 
-![Accepted](evidencias/accepted.png)
+![Accepted](TrabalhoGrafosT1/T1/evidencias/accepted.png)
 
 ---
