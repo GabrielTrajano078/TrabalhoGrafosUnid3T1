@@ -9,7 +9,7 @@
 - Gabriel Trajano - 2410361
 - Davi Lira Cysne - 2410372
 - Thiago Holanda - 2410384
-- Lucas Bezerra
+- Lucas Bezerra - 2310237
 - Artur da Ponte - 2410368
 
 ---
